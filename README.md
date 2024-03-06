@@ -9,15 +9,11 @@
   <h4 align="center">Demo: <a href="https://next-e-commerce-example.vercel.app/">https://next-e-commerce-example.vercel.app/</a></h4>
 
   <p align="center">
-    An e-commerce website example built with Next.js that I made in 1 week as a self challenge. There are some issues that I will handle later. Using Firebase as backend.
+    An e-commerce website example built with Next.js. There are some issues that I will handle later. Using Firebase as backend.
     <br />
     <br />
-    <a href="https://twitter.com/anilsenay">Contact me</a>
-    ·
-    <a href="https://github.com/anilsenay/next-e-commerce/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/anilsenay/next-e-commerce/issues">Request Feature</a>
-  </p>
+  
+   
 </p>
 
 <!-- TABLE OF CONTENTS -->
@@ -45,7 +41,7 @@
 
 ## About The Project
 
-I saw a UI design on Dribbble by [Anton Mikhaltsov](https://dribbble.com/shots/9404340-Shop-Clothing-Web-Page). And I wanted to code this design. So I decided to make it a full working website with NextJS but in just 1 week as challenge myself. Some issues are still there but I will check out them later.
+I saw a UI design on Dribbble by [Anton Mikhaltsov](https://dribbble.com/shots/9404340-Shop-Clothing-Web-Page). And I wanted to code this design. Please do note: Some issues are still there but I will check out them later.
 
 - Filter and Sort buttons are not working yet.
 - ~~Website is not responsive %100 because of time was not enought. I am working on it currently.~~ Now, it is responsive.
@@ -126,16 +122,6 @@ NEXT_PUBLIC_FIREBASE_APP_ID = your-firebase-app-id
 npm run dev
 ```
 
-<!-- Issues / Future plans -->
-
-## Issues - Future plans
-
-- Filter and Sort buttons
-- Optimize firestore query functions
-- On cart page, decrease item button is not working
-- ~~Website will be %100 responsive~~
-- Replace some HTML tags with semantic tags
-
 <!-- CONTRIBUTING -->
 
 ## Contributing
@@ -177,6 +163,6 @@ Distributed under the GPL License. See `LICENSE` for more information.
 
 ## Contact
 
-[@anilsenay](https://twitter.com/anilsenay)
+Email: choudharyashish621@gmail.com
 
-Project Link: [https://github.com/anilsenay/next-e-commerce](https://github.com/anilsenay/next-e-commerce)
+Project Link: [https://github.com/github.com/dminiac/Next.js-Ecommerce](https://github.com/dminiac/Next.js-Ecommerce)
